@@ -14,6 +14,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         Log.d(TAG, "onCreate: ");
+        Log.i(TAG, "Something");
         //Change test
         //Commit test
     }
