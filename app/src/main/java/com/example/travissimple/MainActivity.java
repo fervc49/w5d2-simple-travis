@@ -15,6 +15,7 @@ public class MainActivity extends AppCompatActivity {
 
         Log.d(TAG, "onCreate: ");
         Log.i(TAG, "Something");
+        Log.i(TAG, "Something2");
         //Change test
         //Commit test
     }
